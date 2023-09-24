@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table w\bin\Debug\_10.Multiplication_Table_w.exe.config
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table w\bin\Debug\_10.Multiplication_Table_w.exe
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table w\bin\Debug\_10.Multiplication_Table_w.pdb
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table w\obj\Debug\10. Multiplication Table w.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table w\obj\Debug\10. Multiplication Table w.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table w\obj\Debug\10. Multiplication Table w.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table w\obj\Debug\_10.Multiplication_Table_w.exe
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\10. Multiplication Table w\obj\Debug\_10.Multiplication_Table_w.pdb
