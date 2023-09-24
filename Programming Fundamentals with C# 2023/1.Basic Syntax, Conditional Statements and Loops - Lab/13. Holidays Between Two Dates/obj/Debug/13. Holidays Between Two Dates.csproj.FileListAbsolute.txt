@@ -1,0 +1,8 @@
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\bin\Debug\_13.Holidays_Between_Two_Dates.exe.config
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\bin\Debug\_13.Holidays_Between_Two_Dates.exe
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\bin\Debug\_13.Holidays_Between_Two_Dates.pdb
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\13. Holidays Between Two Dates.csproj.AssemblyReference.cache
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\13. Holidays Between Two Dates.csproj.SuggestedBindingRedirects.cache
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\_13.Holidays_Between_Two_Dates.exe
+C:\Users\35989\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\13. Holidays Between Two Dates\obj\Debug\_13.Holidays_Between_Two_Dates.pdb
